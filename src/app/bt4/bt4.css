@@ -1,0 +1,26 @@
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.h-screen {
+    height: 100vh;
+}
+
+.w-60 {
+    width: 15rem;
+}
+.SelectContent {
+    background-color: white;
+    position: absolute;
+    z-index: 9999;
+
+    border: 1px solid black;
+}
